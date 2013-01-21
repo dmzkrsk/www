@@ -1,0 +1,6 @@
+; curl_dll.def : Declares the module parameters for the DLL.
+
+LIBRARY      "curl"
+DESCRIPTION  'curl Windows Dynamic Link Library'
+
+EXPORTS

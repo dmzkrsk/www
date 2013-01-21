@@ -1,0 +1,6 @@
+; urld_dll.def : Declares the module parameters for the DLL.
+
+LIBRARY      "urld"
+DESCRIPTION  'Dynamic URLes Dynamic Link Library'
+
+EXPORTS

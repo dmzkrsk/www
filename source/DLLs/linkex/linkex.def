@@ -1,0 +1,6 @@
+; linkex.def : Declares the module parameters for the DLL.
+
+LIBRARY      "linkex"
+DESCRIPTION  'linkex Windows Dynamic Link Library'
+
+EXPORTS

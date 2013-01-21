@@ -1,0 +1,6 @@
+; mime_dll.def : Declares the module parameters for the DLL.
+
+LIBRARY      "mime"
+DESCRIPTION  'MIME ContentControl Dynamic Link Library'
+
+EXPORTS

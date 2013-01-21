@@ -1,0 +1,6 @@
+; fsys_dll.def : Declares the module parameters for the DLL.
+
+LIBRARY      "fsys"
+DESCRIPTION  'File System Dinamic Link Library'
+
+EXPORTS
